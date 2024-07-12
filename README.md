@@ -52,6 +52,8 @@ python app.py
 ## Contributing
 
 Feel free to submit issues and pull requests if you would like to contribute to this project.
+After testing, so far there is a problem about the address of URL, plannned to solve within a week qwq
+
 
 ## License
 
